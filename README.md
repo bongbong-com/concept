@@ -1,3 +1,5 @@
+As I read it now, this doc comes off rather opionated, but it's not the intention- the writing style is meant to be brief & direct so the doc doesn't get too long. Presenting opinions as somewhat objective truths is a side-effect of this, but these should still be taken as opinions from a single perspective. The more perspectives and discussion there is, the better the concept will get. 
+
 Abstract
 -
 A Factions project that works in the interest of the player, not profits.
